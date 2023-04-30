@@ -1,0 +1,23 @@
+
+h1 { 
+    font-size: 20; 
+    /* Usar en 20px para titulos */
+    font-family: Helvetica
+}
+ 
+body { 
+     background-color: black; color: white;
+}
+
+.fondo_pagina { 
+    background-image: url("fondo_pagina.jpg");
+}
+
+.titulo { 
+    background-color: black;
+    color: white;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: gold;
+    padding: 10px;
+}
